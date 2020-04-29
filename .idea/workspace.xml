@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="12da5774-5df1-425b-843d-502a29cc06da" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/z_Database1.db" beforeDir="false" afterPath="$PROJECT_DIR$/z_Database1.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/z_database.db" beforeDir="false" afterPath="$PROJECT_DIR$/z_database.db" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +41,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1588133309921</updated>
-      <workItem from="1588133313470" duration="545000" />
+      <workItem from="1588133313470" duration="968000" />
     </task>
     <task id="LOCAL-00001" summary="Just learned about Git so this is my first Project.&#10;It is working with functional GUI and i ll try to add more.">
       <created>1588133951137</created>
@@ -48,7 +50,14 @@
       <option name="project" value="LOCAL" />
       <updated>1588133951137</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Just learned about Git so this is my first Project.&#10;It is working with functional GUI and i ll try to add more.">
+      <created>1588134101961</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1588134101961</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -70,14 +79,18 @@
     <option name="LAST_COMMIT_MESSAGE" value="Just learned about Git so this is my first Project.&#10;It is working with functional GUI and i ll try to add more." />
   </component>
   <component name="WindowStateProjectService">
-    <state x="301" y="55" key="CommitChangelistDialog2" timestamp="1588133950920">
+    <state x="301" y="55" key="CommitChangelistDialog2" timestamp="1588134101830">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="301" y="55" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1588133950920" />
+    <state x="301" y="55" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1588134101830" />
     <state x="221" y="89" key="SettingsEditor" timestamp="1588134031447">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="221" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1588134031447" />
+    <state x="320" y="191" key="Vcs.Push.Dialog.v2" timestamp="1588134106960">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="191" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1588134106960" />
     <state x="374" y="284" key="com.intellij.ide.util.TipDialog" timestamp="1588133314205">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
