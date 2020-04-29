@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="12da5774-5df1-425b-843d-502a29cc06da" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/z_Database1.db" beforeDir="false" afterPath="$PROJECT_DIR$/z_Database1.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/z_database.db" beforeDir="false" afterPath="$PROJECT_DIR$/z_database.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,7 +16,13 @@
         <option value="harjotbarn99 &lt;64388728+harjotbarn99@users.noreply.github.com&gt;" />
       </list>
     </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="develop" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="ProjectId" id="1bCPbqh7yVYimatlnoasMLOtXep" />
   <component name="ProjectViewState">
@@ -41,7 +46,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1588133309921</updated>
-      <workItem from="1588133313470" duration="968000" />
+      <workItem from="1588133313470" duration="1235000" />
     </task>
     <task id="LOCAL-00001" summary="Just learned about Git so this is my first Project.&#10;It is working with functional GUI and i ll try to add more.">
       <created>1588133951137</created>
@@ -57,7 +62,14 @@
       <option name="project" value="LOCAL" />
       <updated>1588134101961</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="emptied the database">
+      <created>1588135149591</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1588135149591</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -76,24 +88,37 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Just learned about Git so this is my first Project.&#10;It is working with functional GUI and i ll try to add more." />
-    <option name="LAST_COMMIT_MESSAGE" value="Just learned about Git so this is my first Project.&#10;It is working with functional GUI and i ll try to add more." />
+    <MESSAGE value="emptied the database" />
+    <option name="LAST_COMMIT_MESSAGE" value="emptied the database" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="301" y="55" key="CommitChangelistDialog2" timestamp="1588134101830">
+    <state x="301" y="55" key="CommitChangelistDialog2" timestamp="1588135471556">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="301" y="55" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1588134101830" />
+    <state x="301" y="55" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1588135471556" />
+    <state x="100" y="100" width="1240" height="700" key="DiffContextDialog" timestamp="1588135624571">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="100" y="100" width="1240" height="700" key="DiffContextDialog/0.0.1440.900@0.0.1440.900" timestamp="1588135624571" />
     <state x="221" y="89" key="SettingsEditor" timestamp="1588134031447">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="221" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1588134031447" />
-    <state x="320" y="191" key="Vcs.Push.Dialog.v2" timestamp="1588134106960">
+    <state x="100" y="100" width="1240" height="700" key="ShowDiffWithBranchDialog" timestamp="1588135624572">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="191" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1588134106960" />
+    <state x="100" y="100" width="1240" height="700" key="ShowDiffWithBranchDialog/0.0.1440.900@0.0.1440.900" timestamp="1588135624572" />
+    <state x="320" y="191" key="Vcs.Push.Dialog.v2" timestamp="1588135622399">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="191" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1588135622399" />
     <state x="374" y="284" key="com.intellij.ide.util.TipDialog" timestamp="1588133314205">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="374" y="284" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1588133314205" />
+    <state x="503" y="374" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1588135482382">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="503" y="374" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900@0.0.1440.900" timestamp="1588135482382" />
   </component>
 </project>
