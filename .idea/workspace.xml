@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="12da5774-5df1-425b-843d-502a29cc06da" name="Default Changelist" comment="Just learned about Git so this is my first Project.&#10;It is working with functional GUI and i ll try to add more.">
+      <change afterPath="$PROJECT_DIR$/.idea/Work_log.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/dashboard.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/dashboard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/logJS.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/logs.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/logs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/signUp.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/signUp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loginAttempts.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/other.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p_authentication.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p_database.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/poetry.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/private-attend-app-token.pem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/private-attend-app.pem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public-attend-app-token.pem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public-attend-app.pem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/bin/Activate.ps1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/bin/activate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/bin/activate.csh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/bin/activate.fish" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/bin/python" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/bin/python3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/bin/python3.8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/pyvenv.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/z_Database1.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/z_database.db" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="harjotbarn99 &lt;64388728+harjotbarn99@users.noreply.github.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1bCPbqh7yVYimatlnoasMLOtXep" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="12da5774-5df1-425b-843d-502a29cc06da" name="Default Changelist" comment="" />
+      <created>1588133309921</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588133309921</updated>
+      <workItem from="1588133313470" duration="402000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Just learned about Git so this is my first Project.&#10;It is working with functional GUI and i ll try to add more." />
+    <option name="LAST_COMMIT_MESSAGE" value="Just learned about Git so this is my first Project.&#10;It is working with functional GUI and i ll try to add more." />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="301" y="55" key="CommitChangelistDialog2" timestamp="1588133511224">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="301" y="55" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1588133511224" />
+    <state x="374" y="284" key="com.intellij.ide.util.TipDialog" timestamp="1588133314205">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="374" y="284" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1588133314205" />
+  </component>
+</project>

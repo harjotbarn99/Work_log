@@ -1,0 +1,36 @@
+<html>
+
+<head>
+
+    <title>Logs</title>
+
+    <script src="signUpJS"></script>
+    <script src="https://cdn.jsdelivr.net/npm/node-forge@0.7.0/dist/forge.min.js"></script>
+    <script src="logJS"></script>
+    <script src="dashboard.js"></script>
+    <script src="logs.js"></script>
+</head>
+
+<body onload="today();">
+
+<h1>Logs</h1>
+<h3 id="welcome"></h3><br>
+
+<div id="message" style="font-size:300%;"></div>
+
+<div id="today" >
+
+</div><br><br>
+
+
+<div id="filters">
+    <input type="date" id="Cdate">
+    <button onclick="custom()">Get Custom Logs</button>
+</div><br>
+
+<div id="custom"></div>
+
+
+</body>
+
+</html>

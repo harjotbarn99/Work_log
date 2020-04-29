@@ -1,0 +1,34 @@
+<html>
+
+<head>
+
+<title>Dashboard</title>
+
+    <script src="signUpJS"></script>
+    <script src="https://cdn.jsdelivr.net/npm/node-forge@0.7.0/dist/forge.min.js"></script>
+    <script src="logJS"></script>
+    <script src="dashboard.js"></script>
+</head>
+
+<body onload="setUserWel();">
+
+<h1>Dashboard</h1>
+<h3 id="welcome"></h3><br>
+<br><br>
+Click the log button to view logs <button onclick="logs();">Logs</button>
+<br><br>
+please fill out the details and click on send to send your entry.
+<br><br>
+
+<input type="radio" name="typeOfWork" id="Fieldwork" value="Field work"> Field work<br>
+<input type="radio" name="typeOfWork" id="Office" value="Office"> Office<br>
+
+<br><br>
+   <input type="text" placeholder="please enter any description." id="description" size="100">
+    <br><br>
+    <button onclick="sendDetails();">Send</button>
+
+<div id="message" style="font-size:300%;"></div>
+</body>
+
+</html>
