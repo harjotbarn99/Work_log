@@ -15,7 +15,7 @@ from base64 import b64decode, b64encode
 def get_cypher(key_filename):
   with open(key_filename) as f:
     data = f.read()
-  key = RSA.importKey(data,"Barn1999")
+  key = RSA.importKey(data,"KEY USED TO GENERATE POM FILES")
   cipher = PKCS1_OAEP.new(key)
   return cipher
 
