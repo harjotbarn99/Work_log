@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="12da5774-5df1-425b-843d-502a29cc06da" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +45,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1588133309921</updated>
-      <workItem from="1588133313470" duration="1235000" />
+      <workItem from="1588133313470" duration="1492000" />
+      <workItem from="1588477313642" duration="5757000" />
+      <workItem from="1589742096624" duration="31000" />
+      <workItem from="1589761154567" duration="13000" />
     </task>
     <task id="LOCAL-00001" summary="Just learned about Git so this is my first Project.&#10;It is working with functional GUI and i ll try to add more.">
       <created>1588133951137</created>
@@ -69,7 +71,14 @@
       <option name="project" value="LOCAL" />
       <updated>1588135149591</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="emptied the database">
+      <created>1588135638416</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1588135638416</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -80,7 +89,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -92,10 +103,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="emptied the database" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="301" y="55" key="CommitChangelistDialog2" timestamp="1588135471556">
+    <state x="301" y="55" key="CommitChangelistDialog2" timestamp="1588135638281">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="301" y="55" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1588135471556" />
+    <state x="301" y="55" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1588135638281" />
     <state x="100" y="100" width="1240" height="700" key="DiffContextDialog" timestamp="1588135624571">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
